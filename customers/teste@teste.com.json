@@ -3,10 +3,11 @@
   "produto": "teste-5",
   "upsells_comprados": [
     1,
-    "UPSELL-1"
+    "UPSELL-1",
+    "Bolo-Chocolate"
   ],
-  "data": "2025-08-20T21:34:18.499Z",
-  "transacao_id": "test-card-1755725658499",
+  "data": "2025-08-20T21:42:09.824Z",
+  "transacao_id": "test-card-1755726129824",
   "acesso_liberado": true,
   "nome": "teste teste",
   "cpf": "19100000000",
